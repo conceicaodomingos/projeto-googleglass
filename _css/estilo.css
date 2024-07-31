@@ -165,6 +165,7 @@ table#tabelaspec td.ce {
     color: #ffffff;
     background-color: #606060;
     vertical-align: top;
+    text-align: right;
     font-weight: bold;
 }
 table#tabelaspec td.cd {
