@@ -6,7 +6,7 @@
  }
 
  body {
-     background-color: #dddddd;
+     background-color: #ddd;
      font-family: Arial, Helvetica, sans-serif;
  }
  div#interface {
@@ -49,7 +49,7 @@ header#cabecalho h2 {
     font-family: "Titillium Web", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #888888;
+    color: #888;
     font-size: 15pt;
     padding: 0px;
     margin-top: 0px;
@@ -98,7 +98,7 @@ nav#menu ul {
 }
 nav#menu li {
     display: inline-block;
-    background-color: #dddddd;
+    background-color: #ddd;
     padding: 10px;
     margin: 2px;
     transition: background-color 1s;
@@ -110,11 +110,11 @@ nav#menu p {
     display: none;
 }
 nav#menu a {
-    color: #000000;
+    color: #000;
     text-decoration: none;
 }
 nav#menu a:hover {
-    color: #ffffff;
+    color: #fff;
     text-decoration: underline;
 }
 section#corpo {
@@ -127,7 +127,7 @@ section#corpo {
 article#noticia-principal h2 {
     font-size: 13pt;
     color: #606060;
-    background-color: #dddddd;
+    background-color: #ddd;
     padding: 10px 0px 5px 10px;
     margin: 10px 0px;
 }
@@ -144,7 +144,7 @@ header#cabecalho-artigo h1 {
 header#cabecalho-artigo h2 {
     font-size: 13pt;
     color: #cecece;
-    background-color: #ffffff;
+    background-color: #fff;
     margin: 0px;
 }
 header#cabecalho-artigo h3 {
@@ -171,14 +171,14 @@ table#tabelaspec td.cd {
     background-color: #cecece;
 }
 table#tabelaspec caption {
-    color: #888888;
+    color: #888;
     font-size: 13pt;
     font-weight: bolder;
 }
 table#tabelaspec caption span {
     display: block;
     float: right;
-    color: #000000;
+    color: #000;
     font-size: 8pt;
     margin-top: 10px;
 }
@@ -187,7 +187,7 @@ aside#lateral {
     width: 350px;
     float: right;
     padding: 10px;
-    background-color: #dddddd;
+    background-color: #ddd;
     padding: 10px;
     margin-top: 10px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, .5);
@@ -201,7 +201,7 @@ aside#lateral h1 {
 aside#lateral h2 {
     background-color: #606060;
     font-size: 13pt;
-    color: #ffffff;
+    color: #fff;
     padding: 10px;
 }
 footer#rodape {
